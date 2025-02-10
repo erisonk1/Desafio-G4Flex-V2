@@ -1,0 +1,17 @@
+.card{
+    min-width: 200px;
+    min-height: 200px;
+    max-width: 400px;
+    background-color: #222;
+    padding: 1em;
+    border-radius: 20px;
+}
+
+.card_name{
+color: #66fc02;
+
+}
+
+.card_desc{
+    color: rgb(218, 218, 218);
+    }
